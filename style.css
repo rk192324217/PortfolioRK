@@ -1,0 +1,12 @@
+.htmlonly{
+    font-size: 1rem;
+    text-align: center;
+}
+#htmlonly{
+    background-color: rgb(237, 218, 15);
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+#button{
+    align-content: center;
+}
